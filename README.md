@@ -1,0 +1,2 @@
+# espidf-ADS7128-driver
+ADS7128 Small, 8-Channel, 12-Bit ADC With I2C Interface, GPIOs, and CRC.
